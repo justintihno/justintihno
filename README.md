@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Figma**
 
-- 👨‍💻 All of my projects are available at [https://github.com/justintihno/justintihno](https://github.com/justintihno/justintihno)
+- 👨‍💻 All of my projects are available at [https://github.com/justintihno](https://github.com/justintihno)
 
 - 📝 I regularly write articles on [Tech](Tech)
 
