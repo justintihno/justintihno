@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **justintihno@gmail.com**
 
-- ⚡ Fun fact **All languages are meaningful gibberish**
+- ⚡ Fun fact **To turn right on a bike, you must first turn left, and vice versa**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a align="right"> <a href="https://twitter.com/jtihno" target="blank"><img src="https://img.shields.io/twitter/follow/jtihno?logo=twitter&style=for-the-badge" alt="jtihno" /></a>
