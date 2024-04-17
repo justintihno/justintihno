@@ -1,5 +1,5 @@
-# I'm Tihno, 👋  
-*Electrical | Full Stack Software Engineer*
+# I'm Justine, 👋  
+*Electrical | Telecom/ Coder*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justintihno&show_icons=true&theme=radical&layout=compact" />
